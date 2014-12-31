@@ -1,0 +1,4 @@
+*.pyc
+.DS_STORE
+nucle.conll
+nucle.conll.ann
